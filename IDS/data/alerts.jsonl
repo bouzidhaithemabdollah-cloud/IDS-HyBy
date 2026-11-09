@@ -1,0 +1,1 @@
+{"time": 1792920479.901139, "attack": "flood", "src_ip": "34.144.170.27", "severity": "high", "detector": "Flood", "details": {"dst_ip": "10.113.98.154", "packets_in_window": 5494, "window": 5.0}}
